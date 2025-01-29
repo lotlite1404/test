@@ -33,7 +33,7 @@ def separate_even_odd(numbers):
     return {'even': even, 'odd': odd}
 
 result = separate_even_odd(numbers)
-print(result)
+print(result)fffffff
         
      
 
